@@ -35,6 +35,8 @@ GIF created with LiceCap
 
 Describe any challenges encountered while building the app.
 
+Sharing Android Studio Project on GitHub was a little confusing, but with the help of other resources this proved to be a quick fix.
+
 ## License
 
     Copyright [yyyy] [name of copyright owner]
