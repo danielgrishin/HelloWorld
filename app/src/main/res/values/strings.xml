@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HelloWorld</string>
+    <string name="daniel_intro">Hello World! My name is Daniel. I love the movie Monsters Inc., however, I do not like Randy (above).</string>
+    <string name="button_text">Say Hello!</string>
+</resources>
