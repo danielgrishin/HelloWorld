@@ -1,8 +1,8 @@
-# Android Prework - *Simple Todo*
+# Android Prework - *HelloWorld*
 
 Submitted by: **Daniel Grishin**
 
-**Simple Todo** is an android app that shows an image and introductory message, and allows pressing a button to display a Toast. 
+**HelloWorld** is an android app that shows an image and introductory message, and allows pressing a button to display a Toast. 
 
 Time spent: **4** hours spent in total
 
